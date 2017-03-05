@@ -16,5 +16,11 @@ namespace VS_github_test
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int timbo = 187;
+            timbo = +1;
+        }
     }
 }
